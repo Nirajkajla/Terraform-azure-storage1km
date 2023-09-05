@@ -1,1 +1,1 @@
-# Terraform-azure-storage1km
+# terraform-azure-mystorage
